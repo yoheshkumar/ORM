@@ -3,7 +3,9 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
+## Entity Relationship Diagram:
+
+![Entity Relationship Diagram](./ORM2.png)
 
 Include your ER diagram here
 
@@ -22,6 +24,7 @@ Write your own steps
 Include your code here
 
 ## OUTPUT
+![OUTPUT](./ORM1.png)
 
 Include the screenshot of your admin page.
 
