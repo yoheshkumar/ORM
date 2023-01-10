@@ -26,7 +26,6 @@ Include your code here
 ## OUTPUT
 ![OUTPUT](./ORM1.png)
 
-Include the screenshot of your admin page.
 
-
-## RESULT
+## RESULT:
+program is successfully executed
